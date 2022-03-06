@@ -1,0 +1,2 @@
+(this["webpackJsonp@coreui/coreui-pro-react-admin-template-starter"]=this["webpackJsonp@coreui/coreui-pro-react-admin-template-starter"]||[]).push([[45],{1593:function(e,r,t){"use strict";t.r(r);t(0);var a=t(142),c=t(18);r.default=function(){var e=JSON.parse(localStorage.getItem("user"));return console.log(e),Object(c.jsx)(c.Fragment,{children:Object(c.jsxs)(a.e,{children:["Name: ",e.name," ",Object(c.jsx)("br",{}),"Role:",e.role]})})}}}]);
+//# sourceMappingURL=45.a3682d2f.chunk.js.map
