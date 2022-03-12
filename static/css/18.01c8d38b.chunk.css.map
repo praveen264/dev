@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/views/ev_super_admin/time_table/step_1.css"],"names":[],"mappings":"AAAA,YACI,qBACF","file":"18.01c8d38b.chunk.css","sourcesContent":["table, tr, td {\r\n    border: 1px solid black;\r\n  }"]}
